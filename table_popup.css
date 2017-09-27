@@ -1,0 +1,23 @@
+.popup_table th {
+    border: 1px solid #304e82;
+    background: #23afaf;
+    text-align: center;
+    padding: 5px 5px;
+    color: #3e5048;
+    width: 20%;
+}
+.popup_table td{
+    border: 1px solid #304e82;
+    text-align: center;
+    padding: 5px 5px;
+    color: #8180b1;
+}
+h4.modal-title {
+    text-align: center;
+}
+h4.modal_h{color: #8180b1 }
+.pop_up {
+    max-width: 80%;
+    width: auto !important;
+    margin: 0 auto;
+}
